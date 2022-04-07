@@ -1,0 +1,214 @@
+#title{
+	background: #050029;
+	opacity: 0.9;
+	color: #FFF49E;
+	letter-spacing:4px;
+	font-size: 30px;
+	font-weight: 360;
+	text-align: right;
+	padding: 40px;
+	width: 95%;
+	font-family: system-ui;
+}
+.logt{
+	width: 80px;
+	padding: 30px 30px 30px; 
+
+	border-radius: 100%; 
+	float:left;  /* Отступы вокруг картинки */
+}
+.Hello{
+	font-size: 23px;
+	text-align: left;
+	width: 95%;
+	text-align: left;
+	font-family: system-ui;
+	padding-top: 53px; 
+	padding-left: 50px;
+}
+
+.img1{
+	opacity: 0.8;
+	border-radius: 10%;
+	position: absolute;
+	width: 330px;
+	height: 250px;
+	background: url(img1.jpg) 0/100%;
+	margin-top: 30px;
+	margin-left: 140px;
+	z-index: 1;
+	font-size: 23px;
+	text-align: left;
+	font-family: system-ui;
+	font-weight: 500;
+	color:white;
+	text-shadow: 2px 1px 1px #000;
+
+}
+.skrit1{
+	border-radius: 25% 25% 5% 5%;
+	transition: all 0.8s ease 0s;
+	display: inline-block;
+	opacity: 0.15;
+	position: absolute;
+	background: black;
+	width: 330px;
+	height: 60px;
+	z-index: 2;
+	margin-top: 30px;
+	color: black;
+	
+}
+
+.skrit1:hover{transform: translateY(30px) scale(1, 2);}
+.img2{
+	opacity: 0.8;
+	border-radius: 10%;
+	position: absolute;
+	width: 330px;
+	height: 250px;
+	background: url(img2.jpg) 0/100%;
+	margin-top: 30px;
+	margin-left: 640px;
+	z-index: 1;
+	font-size: 23px;
+	text-align: left;
+	font-family: system-ui;
+	font-weight: 500;
+	color:white;
+	text-shadow: 2px 1px 1px #000;
+
+}
+.skrit2{
+	border-radius: 25% 25% 5% 5%;
+	transition: all 0.8s ease 0s;
+	display: inline-block;
+	opacity: 0.15;
+	position: absolute;
+	background: black;
+	width: 330px;
+	height: 60px;
+	z-index: 2;
+	margin-top: 30px;
+	margin-left: 500px;
+	color: white;
+	text-align: right;
+}
+.skrit2:hover{transform: translateY(30px) scale(1, 2);}
+.img3{
+	opacity: 0.85;
+	border-radius: 10%;
+	position: absolute;
+	width: 330px;
+	height: 250px;
+	background: url(img3.jpg) 0/100%;
+	margin-top: 30px;
+	margin-left: 1140px;
+	z-index: 1;
+	font-size: 23px;
+	text-align: left;
+	font-family: system-ui;
+	font-weight: 500;
+	color:white;
+	text-shadow: 2px 1px 1px #000;
+
+}
+.skrit3{
+	border-radius: 25% 25% 5% 5%;
+	transition: all 0.8s ease 0s;
+	display: inline-block;
+	opacity: 0.15;
+	position: absolute;
+	background: black;
+	width: 330px;
+	height: 60px;
+	z-index: 2;
+	margin-top: 30px;
+	margin-left: 1000px;
+	color: white;
+	text-align: right;
+}
+.skrit3:hover{transform: translateY(30px) scale(1, 2);}
+.down{
+	margin-top: 330px;
+	background: #FFFAD6;
+	color: black;
+	letter-spacing:4px;
+	font-size: 20px;
+	font-weight: 360;
+	text-align: left;
+	padding: 80px;
+	padding-left: 155px; 
+	width: 84.5%;
+	font-family: system-ui;
+}
+
+#block1{
+	background: #FFFAD6;
+	padding-left: 200px;
+	text-align: left;
+	font-family: system-ui;
+	font-size: 20px;
+	font-weight: 360;
+}
+
+#van1{
+	border-radius: 30px;
+	opacity: 0.7;
+	float: right;
+	margin: 100px 100px 50px 7px;
+	height: 400px;
+	width: 600px;
+}
+
+#block2{
+	background: #E0E6FF;
+	padding-right: 200px;
+	text-align: right;
+	font-family: system-ui;
+	font-size: 20px;
+	font-weight: 360;
+}
+
+.van2{
+	border-radius: 30px;
+	opacity: 0.7;
+	float: left;
+	margin: 250px 60px 100px 100px;
+	height: 400px;
+	width: 600px;
+}
+#block3{
+	background: #E5FBFF;
+	padding-left: 200px;
+	text-align: left;
+	font-family: system-ui;
+	font-size: 20px;
+	font-weight: 360;
+}
+
+.van3{
+	border-radius: 30px;
+	opacity: 0.7;
+	float: right;
+	margin: 200px 100px 50px 7px;
+	height: 400px;
+	width: 600px;
+}
+
+#Hello2{
+
+	background: #233c4f;
+	color: white;
+	letter-spacing:2px;
+	font-size: 20px;
+	text-align: center;
+	padding: 25px;
+	float: right;
+	width: 96.6%;
+	font-variant: arial black;
+	font-family: system-ui;
+}
+ a{
+ 	color: white;
+ }
